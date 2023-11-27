@@ -459,12 +459,12 @@ img {
 }
 @media screen and (max-width: 767px) {
   .about {
-    background: url(/img/SP/bg.png) no-repeat center center/cover;
+    background: url(../img/SP/bg.png) no-repeat center center/cover;
   }
 }
 @media screen and (min-width: 768px) {
   .about {
-    background: url(/img/bg.png) no-repeat center center/cover;
+    background: url(../img/bg.png) no-repeat center center/cover;
     padding: 172px 0 52px;
   }
 }
@@ -723,7 +723,7 @@ img {
     #contact
 =================================================== */
 .contact {
-  background: url(/img/contact.png) no-repeat center center/cover;
+  background: url(../img/contact.png) no-repeat center center/cover;
   padding: 72px 40px 86px;
   margin-top: 225px;
 }
